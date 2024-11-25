@@ -2,4 +2,4 @@
 
 **LinearRegression.ipynb** : 머신러닝 선형 회귀에 관한 노트, 학습률, 학습곡선, 과대·과소적합, 규제
 
-**RogisticRegression.ipynb** : 붓꽃 데이터셋을 활용한 로지스틱 회귀 기초, 소프트맥스 회귀를 포함하고 있음
+**RogisticRegression.ipynb** : 붓꽃 데이터셋을 활용한 로지스틱 회귀 기초, 결정 경계, 소프트맥스 회귀 포함
