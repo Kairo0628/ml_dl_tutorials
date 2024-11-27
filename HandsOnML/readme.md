@@ -7,3 +7,5 @@
 **SVM.ipynb** : SVM(Support Vector Machine), 마진, 커널 트릭(다항, 가우스 RBF)
 
 **DecisionTree.ipynb** : 결정트리, CART
+
+**Ensemble_RandomForest.ipynb** : 앙상블 학습(Voting, Hard / Soft), 랜덤 포레스트, 그레디언트 부스팅
